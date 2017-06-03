@@ -1,0 +1,36 @@
+.heading{
+    color: black;
+    text-align: center;
+}
+
+.btn-custom{
+    margin-top: 10px;
+    float: right;
+}
+
+.btn-width{
+    width: 100px;
+}
+
+
+body{
+    font-family: 'Poiret One', cursive;
+    font-weight: bolder;
+    align-items: center;
+}
+
+.btn{
+    font-family: 'Poiret One', 'cursive';
+}
+
+.card-custom{
+    margin-top: 10px;
+}
+
+.headline{
+    text-align: center;
+}
+
+a{
+    color:black;
+}
